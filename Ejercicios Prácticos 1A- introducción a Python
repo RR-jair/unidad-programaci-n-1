@@ -1,0 +1,51 @@
+print("Hola UTN")
+print(3+5)
+print(10-5)
+print(10-15)
+print(4*10)
+print(10/2)
+print("se crea un error debido a que no es posible dividir por 0")
+print((10+3)*(6+6))
+print(10+3*6+6)
+print("lo que pasa  es que  python realiza las ecuaciones reolviendolos segun la jerarquia de estos, por eso en el primer caso resuelve las sumas que se encuentran en parentesis, mientras que en que esta sin parentesis primero resuelve la multiplicacion")
+print(10%2)
+print(10%3)
+var = 200
+print(var)
+var = var -300
+print(var)
+var =var +600
+print(var)
+var =var *2
+print(var)
+var = var /10
+print(var)
+varB= 200
+varA=600
+print (varA + varB)
+print (varA - varB)
+print (varA * varB)
+print (varA / varB)
+
+resolucion:
+Hola UTN
+8
+5
+-5
+40
+5.0
+se crea un error debido a que no es posible dividir por 0
+156
+40
+lo que pasa  es que  python realiza las ecuaciones reolviendolos segun la jerarquia de estos, por eso en el primer caso resuelve las sumas que se encuentran en parentesis, mientras que en que esta sin parentesis primero resuelve la multiplicacion
+0
+1
+200
+-100
+500
+1000
+100.0
+800
+400
+120000
+3.0
