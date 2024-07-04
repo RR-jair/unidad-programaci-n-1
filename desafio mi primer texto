@@ -1,0 +1,6 @@
+texto = 'mi primer texto'
+print (texto)
+texto = 133999
+print (texto)
+texto = ("hola")
+print (texto)
